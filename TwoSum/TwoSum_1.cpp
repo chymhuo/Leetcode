@@ -20,5 +20,6 @@ public:
         	}
         	else indexMap[num1] = i + 1; 
         }
+        return result;
     }
 };
